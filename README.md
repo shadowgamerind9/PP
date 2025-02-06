@@ -1,12 +1,6 @@
 # Zzz Nuker
 A discord Nuker Written In Python By Aizer . Just Like "Lithium Nuker" . Not A Skid Of Lithum Nuker .
 
-# Dev
-- AIZER 
-- aesthetic.aizer#0000
-- https://discord.gg/rexa
-- https://rexabot.tech
-
 # Open Source Nuker 
 
 # NOTE
